@@ -76,7 +76,7 @@ p {
 }
 
 .benefits {
-    margin-right: 20px;
+    margin-left: 750px;
     padding: 20px;
     clear: both;
     float: right;
@@ -144,6 +144,7 @@ p {
 }
 
 .online-reputation-management {
+    display: inline-block;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
